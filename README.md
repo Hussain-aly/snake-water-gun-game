@@ -42,16 +42,5 @@ Run the game:
 
 python "snake, water, gun Game .py"
 
-(Note: The filename snake, water, gun Game .py contains spaces and commas. It's generally recommended to rename files without spaces or special characters for easier command-line usage, e.g., snake_water_gun_game.py. If you rename it, update this instruction.)
-
-Future Enhancements (Optional)
-Add score tracking and display for multiple rounds.
-
-Implement a graphical user interface (GUI) using libraries like Tkinter or Pygame.
-
-Allow players to set the number of rounds to play.
-
-Improve input validation for player choices.
-
 My Role
 This game was developed independently as a solo project.
